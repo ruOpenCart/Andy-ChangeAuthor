@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language title="Russian (RU)" date_format="j M Y" time_format="H:i" currency_format="{value} {symbol}" week_start="1" decimal_point="." thousands_separator="," label_separator=":" comma_separator=", " ellipsis="..." parenthesis_open="(" parenthesis_close=")" language_code="ru-RU" text_direction="LTR" addon_id="Andy/ChangeAuthor" base_version_id="23" export_version="2">
+  <phrase title="changeauthor_author" addon_id="Andy/ChangeAuthor" version_id="23" version_string="2.3"><![CDATA[Автор]]></phrase>
+  <phrase title="changeauthor_change_author" addon_id="Andy/ChangeAuthor" version_id="23" version_string="2.3"><![CDATA[Сменить автора]]></phrase>
+  <phrase title="changeauthor_change_author_for_post" addon_id="Andy/ChangeAuthor" version_id="23" version_string="2.3"><![CDATA[Изменение автора сообщения #]]></phrase>
+  <phrase title="changeauthor_new_author_username_not_found" addon_id="Andy/ChangeAuthor" version_id="23" version_string="2.3"><![CDATA[Имя нового автора не найдено.]]></phrase>
+  <phrase title="changeauthor_new_author_username_same_as_current_author_username" addon_id="Andy/ChangeAuthor" version_id="23" version_string="2.3"><![CDATA[Имя нового автора совпадает с именем пользователя текущего автора.]]></phrase>
+  <phrase title="changeauthor_submit" addon_id="Andy/ChangeAuthor" version_id="23" version_string="2.3"><![CDATA[Применить]]></phrase>
+  <phrase title="changedate_enter_new_author" addon_id="Andy/ChangeAuthor" version_id="23" version_string="2.3"><![CDATA[Введите имя нового автора]]></phrase>
+  <phrase title="permission.changeAuthor_view" addon_id="Andy/ChangeAuthor" version_id="23" version_string="2.3"><![CDATA[Может менять автора]]></phrase>
+  <phrase title="permission_interface.changeAuthor" addon_id="Andy/ChangeAuthor" version_id="23" version_string="2.3"><![CDATA[Права смены автора]]></phrase>
+</language>
